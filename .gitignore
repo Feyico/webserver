@@ -3,3 +3,4 @@ output/*
 #忽略src下.o文件
 src/*.o
 #忽略.vscode目录下文件
+.vscode/*
