@@ -1,0 +1,4 @@
+#忽略output目录下文件
+output/*
+
+src/*.o
